@@ -28,5 +28,3 @@ def dictparse(csvfilename, keyfield, separator, quote, quotestrategy):
     # fieldnames returns a list of the field names in a file, so
     # we don't have to know them beforehand :)
 ```
-
-Here's a little change. 
